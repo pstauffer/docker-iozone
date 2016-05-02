@@ -11,4 +11,4 @@ docker run -d --name iozone pstauffer/iozone:latest
 ```
 
 ## License
-This project is licensed under `MIT <http://opensource.org/licenses/MIT>`_.
+This project is licensed under [MIT](http://opensource.org/licenses/MIT).
