@@ -4,10 +4,12 @@
 
 Small docker image with iozone installed. It's based on [Alpine Linux](https://hub.docker.com/_/alpine/).
 
+[![](https://images.microbadger.com/badges/image/pstauffer/iozone.svg)](https://microbadger.com/images/pstauffer/iozone)
+
 
 ## Usage
 ```
-docker run -d --name iozone pstauffer/iozone:latest
+docker run --rm -it --name iozone pstauffer/iozone:latest /bin/sh
 ```
 
 ## License
